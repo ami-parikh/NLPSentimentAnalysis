@@ -3,7 +3,7 @@ library(translate)
 library(stringr)
 
 
-set.key("AIzaSyD_9kjrIyBbAmmZVYlVPCo8Tv-j7D-B5ko")
+set.key("<insert key here>")
 
 
 files=Sys.glob("*.csv")
