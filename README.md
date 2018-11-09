@@ -8,3 +8,5 @@ The data I am using so far is
 The MOUD dataset has sentence level tagging for transcripts of user review videos. I have translated these to English using the Google Translate API
 
 I have built several models using Dense layers, RNNs and LSTMs so far. Experimentation is still underway.
+
+Adding a one-dimensional CNN to an LSTM network gives slightly better results.
